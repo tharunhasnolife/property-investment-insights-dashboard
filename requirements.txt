@@ -1,0 +1,7 @@
+streamlit==1.54.0              # Web framework for interactive dashboard UI
+pandas==2.3.3                  # Data manipulation, merging, and aggregation
+numpy==2.4.2                   # Numerical operations and array handling
+matplotlib==3.10.8             # Base visualization library (installed as dependency)
+rapidfuzz==3.14.3              # Fuzzy string matching for ZIP code resolution
+plotly==6.5.2                  # Interactive charting with custom glow effects
+pydeck==0.9.1                  # Geospatial visualization and map layers
